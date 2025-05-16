@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sahilfidha
-- 👀 I’m interested in Computer Engineering internships
+- 👀 I’m interested in Computer Engineering
 - 🌱 I’m currently in my Undergrad (BSc in Computer Engineering)
 - 📫 How to reach me: sahil.fidhallah@gmail.com
 
